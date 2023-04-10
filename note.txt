@@ -1,0 +1,5 @@
+Ne mettre qu'un seul carre et
+pouvoir modifier le nombre de carrer comme
+bon semble
+
+Sauvegarder les preference dans un fichier pref
